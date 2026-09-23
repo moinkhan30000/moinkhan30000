@@ -7,7 +7,7 @@
 I am a Computer Engineering graduate from Bilkent University, bridging the gap between high-level web architecture and operating systems engineering. I enjoy solving complex structural challenges, whether that means designing distributed collaboration platforms or engineering custom file systems and thread libraries.
 
 ### 🚀 Web Architecture & Full-Stack Development
-- **Distributed Collaboration (CollabHub):** Engineered a full-stack version-control platform featuring a C# Revit plugin and a custom backend. Implemented element-level change tracking, visual diffs, and push/pull synchronization to selectively merge updates without transferring raw RVT binaries.
+- **Distributed Collaboration (CollabHub):** Engineered an element-level version-control system for Autodesk Revit, pairing a C# add-in with a Python FastAPI backend to enable branching, visual diffs, and selective merging without treating full RVT files as opaque binaries.
 - **Frontend & SPA Optimization:** Developed the React interface for the Pariwar Care Network using custom CSS Grid layouts, and implemented native SPA routing via the History API to eliminate external dependencies and minimize bundle size.
 - **Comprehensive Web Platforms:** Built full-stack systems—including a university portal and a hotel management system—using React, Django REST Framework, and MySQL, fully containerized with Docker Compose.
 
