@@ -1,34 +1,40 @@
 # 👋 Hi, I’m Moin Khan
 
-**Software Engineer | Full-Stack Web Development & Low-Level Systems**
+**Software Engineer | Full-Stack Development & Systems Programming**
 
-🌍 Currently in India | 🎓 Bilkent University Graduate | ✈️ **Open to relocation**
+🌍 Based in India | 🎓 Computer Engineering graduate from Bilkent University | ✈️ **Open to relocation**
 
-I am a Computer Engineering graduate from Bilkent University, bridging the gap between high-level web architecture and operating systems engineering. I enjoy solving complex structural challenges, whether that means designing distributed collaboration platforms or engineering custom file systems and thread libraries.
+I build software across the stack, from web applications and backend services to file systems, concurrency libraries, and Linux components. I enjoy working on problems where architecture, performance, and practical usability matter.
 
-### 🚀 Web Architecture & Full-Stack Development
-- **Distributed Collaboration (CollabHub):** Engineered an element-level version-control system for Autodesk Revit, pairing a C# add-in with a Python FastAPI backend to enable branching, visual diffs, and selective merging without treating full RVT files as opaque binaries.
-- **Frontend & SPA Optimization:** Developed the React interface for the Pariwar Care Network using custom CSS Grid layouts, and implemented native SPA routing via the History API to eliminate external dependencies and minimize bundle size.
-- **Comprehensive Web Platforms:** Built full-stack systems—including a university portal and a hotel management system—using React, Django REST Framework, and MySQL, fully containerized with Docker Compose.
+### 🚀 Full-Stack Development & Software Architecture
+
+- **CollabHub:** Built an element-level version-control system for Autodesk Revit. A C# add-in and Python FastAPI backend support branching, visual diffs, and selective merging without treating entire RVT files as opaque binaries.
+- **Pariwar Care Network:** Developed a responsive React interface with custom CSS Grid layouts and implemented client-side routing with the History API.
+- **Web Platforms:** Built a university portal and a hotel booking and management platform with React, Django REST Framework, MySQL, and Docker Compose.
 
 ### ⚙️ Operating Systems & Low-Level Engineering
-- **File Systems (BFAT):** Developed a persistent FAT-based user-space file system from scratch using the FUSE framework, featuring a file allocation table, storage management, and block-level I/O.
-- **Concurrency & Threading:** Implemented a cooperative user-space thread library with context switching and synchronization primitives on Linux/x86-64 without relying on POSIX threads.
-- **Kernel Modules & IPC:** Parallelized data processing across multiple processes using POSIX shared memory and condition variables, and developed a custom Linux kernel module.
+
+- **BFAT File System:** Developed a persistent FAT-based user-space file system with FUSE, including file allocation, storage management, and block-level I/O.
+- **User-Space Thread Library:** Implemented cooperative threading, context switching, and synchronization primitives for Linux on x86-64 without POSIX threads.
+- **Processes, IPC & Kernel Development:** Parallelized data processing with multiple processes, POSIX shared memory, and condition variables, and developed a custom Linux kernel module.
 
 ### 🛠️ Technical Stack
-- **Languages:** Python, JavaScript, TypeScript, Java, C, C++, SQL
-- **Frontend:** React, HTML/CSS, CSS Grid, Vite
-- **Backend & APIs:** Django, Django REST Framework, Flask, Node.js
-- **Systems & Infrastructure:** Linux, POSIX, FUSE, Multithreading, Docker, Git
 
-### 🌱 Current Focus & Explorations
-- **Software Architecture:** Building automated orchestration workflows to scan and enforce SOLID design principles in Python codebases.
-- **Beyond the Screen:** Taking my very first steps in learning the Japanese language, currently starting with the basic Hiragana and Katakana scripts.
+- **Languages:** Python, C#, TypeScript, JavaScript, Java, C, C++, SQL
+- **Frontend:** React, HTML, CSS, CSS Grid, Vite
+- **Backend & APIs:** Django, Django REST Framework, FastAPI, Flask, Node.js
+- **Systems & Infrastructure:** Linux, POSIX, FUSE, concurrency, Docker, Git
 
-### 📫 Let's Connect
-- **Email:** moinkhan30000@gmail.com
+### 🌱 Currently Exploring
+
+- **Software Architecture:** Building automation that analyzes Python codebases and helps enforce SOLID design principles.
+- **Japanese:** Learning Hiragana and Katakana as the first step toward studying the language.
+
+### 📫 Let’s Connect
+
+- **Email:** [moinkhan30000@gmail.com](mailto:moinkhan30000@gmail.com)
 - **LinkedIn:** [linkedin.com/in/moin-khan-640245147](https://linkedin.com/in/moin-khan-640245147)
 
-### 📂 Pinned Repositories
-Explore my source code below for projects spanning full-stack web platforms, distributed architecture, and OS-level systems programming.
+### 📂 Featured Projects
+
+My pinned repositories include full-stack applications, developer tools, and systems-programming projects. Each repository contains setup instructions and technical documentation.
