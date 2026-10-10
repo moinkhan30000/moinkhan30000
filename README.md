@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moin Khan
 
-**Software Engineer | Full-Stack Development & Systems Programming**
+**Software Engineer | Application & Systems Software**
 
 🌍 Based in India | 🎓 Computer Engineering graduate from Bilkent University | ✈️ **Open to relocation**
 
